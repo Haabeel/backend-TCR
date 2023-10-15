@@ -17,7 +17,7 @@ To install the project dependencies, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone <repository_url>
+   git clone https://github.com/Haabeel/backend-TCR.git
    cd backend-TCR
    ```
 
