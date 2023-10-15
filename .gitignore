@@ -1,0 +1,6 @@
+__pycache__
+files
+migrations
+client
+env
+db.sqlite3
